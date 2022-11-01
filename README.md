@@ -16,8 +16,8 @@ Os códigos do aplicativo estão disponíveis na pasta [src](src/).
 ## Figuras
 1. Hiper consultador
 
-  ![](images/hiperconsultador.png)
+  ![](images/lca-app01.png)
 
 2. Classifica Paciente
 
-  ![](images/classificapaciente.png)
+  ![](images/lca-app02.png)
