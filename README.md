@@ -26,7 +26,7 @@ ou escaneando o QR code:
 
 <img src="images/lca-app03.png" align="left" width="250">  
 
-<img src="images/lca-app04.png" align="left" width="250">  
+<img src="images/lca-app04.png" align="left" width="250">  <br>
 
 <img src="images/lca-app05.png" align="left" width="250">  
 
