@@ -2,6 +2,7 @@
 
 
 ## Funcionalidades do aplicativo
+<img src="images/lca-icon.png" align="left">
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
 
 1. Caracterizão da lesão
@@ -9,8 +10,6 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 3. Avaliação do aluno
 4. Indicações e contraindicações de exercícios físicos
 5. Treinamento específico
-
-![](images/lca-icon.png) 
 
 ## Código-fonte
 O aplicativo está disponível para descarga na pasta [src](src/)
