@@ -26,8 +26,10 @@ ou escaneando o QR code:
 
 <img src="images/lca-app03.png" align="right" width="250">  
 
+
+GGG
 <img src="images/lca-app04.png" align="left" width="250">  
 
-<img src="images/lca-app05.png" align="left" width="250">  
+<img src="images/lca-app05.png" align="center" width="250">  
 
-<img src="images/lca-app06.png" align="left" width="250">  
+<img src="images/lca-app06.png" align="right" width="250">  
