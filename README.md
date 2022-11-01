@@ -2,9 +2,9 @@
 
 
 ## Funcionalidades do aplicativo
-<img src="images/lca-icon.png" align="left" width="150">
-
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
+
+<img src="images/lca-icon.png" align="left" width="150">
 
 1. Caracterizão da lesão
 2. Caracterizão do aluno
