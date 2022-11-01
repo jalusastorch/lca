@@ -20,12 +20,11 @@ ou escaneando o QR code:
 
 ## Screenshots
 
-1.
 <img src="images/lca-app01.png" align="left" alt="drawing" width="250"/>
 <img src="images/lca-app02.png" align="left" alt="drawing" width="250"/>
-<img src="images/lca-app03.png" align="left" alt="drawing" width="250">
+<img src="images/lca-app03.png" align="left" alt="drawing" width="250"/>
 
-2.
+<br />
 <img src="images/lca-app04.png" align="left" alt="drawing" width="250">
 <img src="images/lca-app05.png" align="left" alt="drawing" width="250"/>
 <img src="images/lca-app06.png" align="left" alt="drawing" width="250"/>
