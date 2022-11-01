@@ -1,21 +1,15 @@
 # Projeto Reabilitação e (Re)educação do LCA
 
-Descrição
-
-## Contato
-- Profa. Dra. Jalusa Díaz - jastorch@ufcat.edu.br
-- 
-
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
-a. Caracterizar lesões
-b. Avaliar o paciente
-c. Passar indicações e contraindicações de exercícios físicos
-d. Sugerir treinamentos específicos
-
-2. [Classificar a fragilidade do idoso](src/jaltsClassificaPaciente.apk)
+1. Caracterizar lesões
+2. Avaliar o paciente
+3. Passar indicações e contraindicações de exercícios físicos
+4. Sugerir treinamentos específicos
+![](images/lca-icon.png) 
 
 ## Código-fonte
-Os códigos do aplicativo estão disponíveis na pasta [src](src/).
+O aplicativo está disponível para descarga na pasta [src](src/), ou desde
+![](images/lca-qr.png)
 
 ## Funcionalidades do aplicativo
 1. Home
