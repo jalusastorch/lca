@@ -5,6 +5,7 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 2. Avaliar o paciente
 3. Passar indicações e contraindicações de exercícios físicos
 4. Sugerir treinamentos específicos
+
 ![](images/lca-icon.png) 
 
 ## Código-fonte
