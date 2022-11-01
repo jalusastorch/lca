@@ -13,11 +13,27 @@ O aplicativo LCA para Android foi projetado com as seguintes funcionalidades:
 ## Código-fonte
 Os códigos do aplicativo estão disponíveis na pasta [src](src/).
 
-## Figuras
-1. Hiper consultador
+## Funcionalidades do aplicativo
+1. Home
 
   ![](images/lca-app01.png)
 
-2. Classifica Paciente
+2. Caracterizão da lesão
 
   ![](images/lca-app02.png)
+
+3. Caracterizão do aluno
+
+  ![](images/lca-app03.png)
+
+4. Avaliação do aluno
+
+  ![](images/lca-app04.png)
+
+5. Indicações e contraindicações de exercícios físicos
+
+  ![](images/lca-app05.png)
+
+6. Treinamento específico
+
+  ![](images/lca-app06.png)
