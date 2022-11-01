@@ -16,7 +16,7 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 O aplicativo está disponível para descarga na pasta [src](src/),  
 ou escaneando o QR code:
 
-![](images/lca-qr.png)
+<img src="images/lca-qr.png" width="140">
 
 ## Screenshots
 
