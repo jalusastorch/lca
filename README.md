@@ -1,9 +1,7 @@
 # Projeto Reabilitação e (Re)educação do LCA
-
-
-## Funcionalidades do aplicativo
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
 
+## Funcionalidades do aplicativo
 <img src="images/lca-icon.png" align="left" width="140">
 
 1. Caracterizão da lesão
