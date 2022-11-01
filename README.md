@@ -9,7 +9,9 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 ![](images/lca-icon.png) 
 
 ## Código-fonte
-O aplicativo está disponível para descarga na pasta [src](src/), ou desde
+O aplicativo está disponível para descarga na pasta [src](src/)
+ou escaneando o QR code:
+
 ![](images/lca-qr.png)
 
 ## Funcionalidades do aplicativo
