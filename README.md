@@ -1,10 +1,11 @@
 # Projeto Reabilitação e (Re)educação do LCA
 
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
-1. Caracterizar lesões
-2. Avaliar o paciente
-3. Passar indicações e contraindicações de exercícios físicos
-4. Sugerir treinamentos específicos
+1. Caracterizão da lesão
+2. Caracterizão do aluno
+3. Avaliação do aluno
+4. Indicações e contraindicações de exercícios físicos
+5. Treinamento específico
 
 ![](images/lca-icon.png) 
 
@@ -17,25 +18,10 @@ ou escaneando o QR code:
 ## Funcionalidades do aplicativo
 1. Home
 
-<img src="images/lca-app01.png" align="right" alt="drawing" width="200"/>
-<img src="images/lca-app02.png" align="right" alt="drawing" width="200"/>
+<img src="images/lca-app01.png" align="left" alt="drawing" width="300"/>
+<img src="images/lca-app02.png" align="left" alt="drawing" width="300"/>
+<img src="images/lca-app03.png" align="left" alt="drawing" width="300"/>
 
-2. Caracterizão da lesão
-
-  ![](images/lca-app02.png)
-
-3. Caracterizão do aluno
-
-  ![](images/lca-app03.png)
-
-4. Avaliação do aluno
-
-  ![](images/lca-app04.png)
-
-5. Indicações e contraindicações de exercícios físicos
-
-  ![](images/lca-app05.png)
-
-6. Treinamento específico
-
-  ![](images/lca-app06.png)
+<img src="images/lca-app04.png" align="left" alt="drawing" width="300"/>
+<img src="images/lca-app05.png" align="left" alt="drawing" width="300"/>
+<img src="images/lca-app06.png" align="left" alt="drawing" width="300"/>
