@@ -4,4 +4,4 @@ Descrição
 
 ## Contato
 - Profa. Dra. Jalusa Díaz
-- (jastorch@ufcat.edu.br)[mailto:jastorch@ufcat.edu.br]
+- (mailto:jastorch@ufcat.edu.br)[email]
