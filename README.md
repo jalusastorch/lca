@@ -22,7 +22,7 @@ ou escaneando o QR code:
 
 <figure>
 <img src="images/lca-app01.png" align="left" width="250">
-<\figure>
+</figure>
   
 <img src="images/lca-app02.png" align="left" width="250">  
 
