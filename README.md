@@ -2,7 +2,7 @@
 
 
 ## Funcionalidades do aplicativo
-<img src="images/lca-icon.png" align="left" width="180">
+<img src="images/lca-icon.png" align="left" width="160">
 
 O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes funcionalidades:
 
