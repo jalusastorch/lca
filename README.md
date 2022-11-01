@@ -10,7 +10,7 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 5. Treinamento específico
 
 ## Código-fonte
-O aplicativo está disponível para descarga na pasta [src](src/),  
+O aplicativo está disponível para descarga desde a pasta [src](src/),  
 ou escaneando o QR code:
 
 <img src="images/lca-qr.png" width="140">
