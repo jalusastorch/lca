@@ -18,6 +18,7 @@ ou escaneando o QR code:
 1. Home
 
   ![](images/lca-app01.png)
+<img align="right" src="images/lca-app02.png">
 
 2. Caracterizão da lesão
 
