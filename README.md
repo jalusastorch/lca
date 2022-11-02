@@ -3,8 +3,8 @@ O [aplicativo LCA para Android](src/LCA.apk) foi projetado com as seguintes func
 
 <img src="images/lca-icon.png" align="left" width="140">
 
-1. Caracterizão da lesão
-2. Caracterizão do aluno
+1. Caracterização da lesão
+2. Caracterização do aluno
 3. Avaliação do aluno
 4. Indicações e contraindicações de exercícios físicos
 5. Treinamento específico
